@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 30m
-  url: "https://github.com/bokker/homelab-temp"
+  url: "https://github.com/bokker/homelab"
   ref:
     branch: "master"
   ignore: |
